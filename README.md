@@ -1,6 +1,6 @@
 # Replantio
 
-Live at https://replantio.com. Reforestation intelligence on a map. Draw a box anywhere on Earth and Canopy tells you
+ Reforestation intelligence on a map. Draw a box anywhere on Earth and Canopy tells you
 which tree species are likely to flourish there, how fast they will grow, how much
 carbon they will hold, and how much shade they will cast. Built for people planning
 restoration and public policy studies, as a screening tool: it narrows 1,021 candidate
